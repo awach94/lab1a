@@ -13,3 +13,12 @@ a:visited {color: #CCCCFF;}
 {
  width: 100%;
 }
+
+@media only screen and (max-width: 680px)
+{
+  p{color:red}
+  #cont{
+    width: 100%;
+     padding: 1;
+ }
+} 
