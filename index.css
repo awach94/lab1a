@@ -9,3 +9,7 @@ ul {color:#FF7F00}
 li {color:#FF7F00}
 a:link {color: #0066CC;}
 a:visited {color: #CCCCFF;}
+#cont
+{
+ width: 100%;
+}
